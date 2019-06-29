@@ -419,13 +419,16 @@ li, ul {
 .service-item:hover .serv-icon {
 	top: 50px;
 	margin-top: 0;
+
 }
 .service-item:hover .serv-icon i {
 	font-size: 30px;
+
 }
 .service-item:hover .serv-content {
 	bottom: 0px;
 	opacity: 1;
+	cursor: pointer;
 	-webkit-transition: all 0.5s;
 	-o-transition: all 0.5s;
 	transition: all 0.5s;
@@ -437,8 +440,6 @@ li, ul {
 	font-size: 1.125em;
 	font-weight: bold;
 }
-
-
 
 
 /* ====================
