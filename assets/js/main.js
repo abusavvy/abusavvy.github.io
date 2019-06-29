@@ -108,7 +108,7 @@ $(window).on('load', function() {
         nav: true,
         loop: true,
         margin: 30,
-        smartSpeed: 700,
+        smartSpeed: 1200,
         items: 1,
         autoplay: true,
         navText: ['<i class="fa fa-angle-left"></i>', '<i class="fa fa-angle-right"></i>']

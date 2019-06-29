@@ -554,7 +554,7 @@ li, ul {
 	        box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
 }
 .review-item p {
-	color:red;
+	color:#585858;
 	margin-bottom: 20px;
 	font-style: italic;
 	font-size: 20px;
