@@ -144,6 +144,7 @@ li, ul {
 }
 .site-btn.btn-light:hover, .site-btn.btn-light:focus {
 	color: #333;
+	border: none;
 }
 
 
@@ -727,6 +728,12 @@ li, ul {
 	font-size: 14px;
 	margin-bottom: 0;
 	line-height: normal;
+}
+
+.footer-section a{
+ color: #51d8af;
+  outline: none;
+  text-decoration: none;
 }
 
 
