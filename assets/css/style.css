@@ -25,7 +25,6 @@ Table of contents
 
 html, body {
 	height: 100%;
-	/*font-weight: bold;*/
 	font-family: open sans, sans-serif;
 }
 img {
@@ -36,17 +35,32 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 }
 p {
-	font-size: 17px;
-	color: #777777;
-	line-height: 30px;
+	font-size: 16px;
+	color: #0c0c0c;
+	line-height: 180%;
+	margin-bottom: 22px;
 }
+
 a:hover, a:focus {
 	text-decoration: none;
 	outline: none;
 }
-li, ul {
+li, ul, ol {
 	margin: 0;
 	padding: 0;
+}
+
+.client-list{
+	font-size: 1.25em;
+	margin-bottom: 40px;
+}
+
+.client-list li{
+    color:rgb(126, 84, 0);
+    font-weight: bold;
+	margin-bottom: 18px;
+    list-style-type: none;
+	
 }
 
 
@@ -683,6 +697,10 @@ li, ul {
 	background: #000000;
 }
 
+.main-contact-section .social-links a.substack {
+	background: #ec7135;
+}
+
 .contact-details{
 	font-size: 1.25em;
 	color: #444444;
@@ -707,7 +725,7 @@ li, ul {
 
 .free-resources li{
 	font-size: 1.125em;
-	/*font-weight: bold;*/
+	/* font-weight: bold; */
 	list-style-type: none;
 	margin-bottom: 10px;
 }
@@ -717,24 +735,23 @@ li, ul {
   Footer Section
 =======================*/
 .footer-section {
-	position: fixed;
-	width: 100%;
 	bottom: 0;
-	background-color: #0A0C17;
+	background-color:#0A0C17;
 	text-align: center;
 	padding: 70px 0;
-	z-index: 2;
+	
 }
 
 
 .footer-section p {
-	font-size: 14px;
-	margin-bottom: 0;
-	line-height: normal;
+	color: #ffffff;
+	font-size: 16px;
+	/* font-weight: bold; */
+	margin-bottom: 12px;
 }
 
 .footer-section a{
- color: #51d8af;
+ color: #c0eefa;
   outline: none;
   text-decoration: none;
 }

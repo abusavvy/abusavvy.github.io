@@ -67,10 +67,17 @@ $(window).on('load', function() {
     	TYPED JS
     --------------------*/
     $(".element").typed({
-        strings: ["I am Abubakar Oyerogba", "Digital Consultant", "Web Developer", "Creative Designer", "From Lagos"],
-        typeSpeed: 10,
-        loop: true,
-        backDelay: 2000
+      strings: [
+        "I am Abubakar Oyerogba",
+        "Digital Consultant",
+        "WordPress Expert",
+        "Website Designer",
+        "Creative Designer",
+        "From Lagos",
+      ],
+      typeSpeed: 10,
+      loop: true,
+      backDelay: 2000,
     });
 
 
@@ -78,9 +85,9 @@ $(window).on('load', function() {
     /*------------------
     	FOOTER
     --------------------*/
-    var fh = $('.footer-section').height();
-    fh = fh + 140;
-    $('.main-warp').css('margin-bottom', fh);
+    // var fh = $('.footer-section').height();
+    // fh = fh + 140;
+    // $('.main-warp').css('margin-bottom', fh);
 
 
 
