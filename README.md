@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Abubakar Oyerogba</h1>
 <h3 align="center">A passionate digital strategist and consultant from Nigeria.</h3>
 
+<img  width="100%" src="https://cdn-images-1.medium.com/max/640/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" alt="">
+
 
 - 👨‍💻 All of my projects are available at [https://abusavvy.github.io/](https://abusavvy.github.io/)
 
