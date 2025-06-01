@@ -13,4 +13,4 @@
 - Web and Tech Support
 - Digital Skill Training
 
-you can view my portfolio here [My Portofolio](https://abusavvy.github.io/)
+you can view my portfolio here [My Portfolio](https://abusavvy.github.io/)
