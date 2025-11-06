@@ -6,6 +6,7 @@
 
 - Website Development
 - WordPress Development
+- Website Design
 - Creative Design
 - Brand Identity
 - Content Creation
