@@ -9,7 +9,7 @@
 - Website Design
 - Creative Design
 - Brand Identity
-- Content Creation
+- Digital Creator
 - Digital Consulting
 - Web and Tech Support
 - Digital Skill Training
